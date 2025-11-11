@@ -1,2 +1,5 @@
-# clase-laboratorio
-Repositorio del laboratorio de Fundamentos de Programación
+# Ejemplo del laboratorio
+
+Repositorio del laboratorio de Fundamentos de Programación.
+
+Rafael Campos Herrera
